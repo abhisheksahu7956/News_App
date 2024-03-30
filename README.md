@@ -1,1 +1,1 @@
-# News_App
+News App using React JS uses React's basic principles to fetch the latest news from a News API and show them to users based on their interests. It's a simple project to create an interactive and personalized news-viewing experience.
